@@ -1,0 +1,6 @@
+class TestPerson{
+Person person;
+public static void main(String args){
+  System.out.print((new TestPerson()).person.count);
+}
+}

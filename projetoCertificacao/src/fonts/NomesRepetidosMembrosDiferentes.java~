@@ -1,0 +1,10 @@
+class NomesRepetidosMembrosDiferentes{
+  String NomesRepetidosMembrosDiferentes;
+  
+  NomesRepetidosMembrosDiferentes(){
+  }
+  
+  String NomesRepetidosMembrosDiferentes(){
+    return "NomesRepetidosMembrosDiferentes";
+  }
+}

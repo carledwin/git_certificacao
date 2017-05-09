@@ -1,0 +1,10 @@
+class TestMan{
+  public static void main(){
+  Man man = new Man();
+  
+  
+}
+
+class Man{
+static int id = 43322;
+}
